@@ -1,5 +1,5 @@
 ## DataEngineering_Capstone_Project
-This is the first Capostone project as part of Data Engineering Bootcamp at Analytix Labs
+This is the first Capstone project as part of Data Engineering Bootcamp at Analytix Labs
 
 ## Business Objectives:
 The project requires to perform Data Engineering steps for Analyzing Employees level Data of an Orginzation.
